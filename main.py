@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-from bot_config import token
+from bot_token import token
 import sys
 import os
 import json
