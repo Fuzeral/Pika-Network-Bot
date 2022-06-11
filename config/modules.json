@@ -5,6 +5,8 @@
         "commands.report.bug",
         "commands.payment.payment",
         "commands.appeal.appeal",
-        "commands.password.password"
+        "commands.password.password",
+        "commands.apply.apply",
+        "commands.ticket.ticket"
     ]
 }
