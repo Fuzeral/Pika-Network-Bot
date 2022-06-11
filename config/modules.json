@@ -1,0 +1,10 @@
+{
+    "extensions" : [
+        "commands.boot.start",
+        "commands.report.report",
+        "commands.report.bug",
+        "commands.payment.payment",
+        "commands.appeal.appeal",
+        "commands.password.password"
+    ]
+}
